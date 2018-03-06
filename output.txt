@@ -1,0 +1,255 @@
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.education.edu
+www.education.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char e
+State 6 Char d
+State 7 Char u
+State 8 Char c
+State 10 Char a
+State 10 Char t
+State 10 Char i
+State 10 Char o
+State 10 Char n
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.edu.edu
+www.edu.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char e
+State 6 Char d
+State 7 Char u
+State 8 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.x.edu
+www.x.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char x
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+njit.edu
+njit.edu
+State 1 Char n
+State 10 Char j
+State 10 Char i
+State 10 Char t
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+stanford.edu
+stanford.edu
+State 1 Char s
+State 10 Char t
+State 10 Char a
+State 10 Char n
+State 10 Char f
+State 10 Char o
+State 10 Char r
+State 10 Char d
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.edu.edu
+www.edu.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char e
+State 6 Char d
+State 7 Char u
+State 8 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+ww.edu.edu
+ww.edu.edu
+State 1 Char w
+State 2 Char w
+State 3 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+State 13 Char .
+State 14 Char e
+State 14 Char d
+State 14 Char u
+Rejected! :( 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+ed.edu
+ed.edu
+State 1 Char e
+State 10 Char d
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.www.edu.edu
+www.www.edu.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char w
+State 10 Char w
+State 10 Char w
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+State 13 Char .
+State 14 Char e
+State 14 Char d
+State 14 Char u
+Rejected! :( 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+ww.edu
+ww.edu
+State 1 Char w
+State 2 Char w
+State 3 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.edu
+www.edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char e
+State 6 Char d
+State 7 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+wwd.edu
+wwd.edu
+State 1 Char w
+State 2 Char w
+State 3 Char d
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+wwb.edu
+wwb.edu
+State 1 Char w
+State 2 Char w
+State 3 Char b
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+Accepted! :) 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www..edu
+www..edu
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char .
+State 10 Char e
+State 10 Char d
+State 10 Char u
+Rejected! :( 
+
+Do you want to enter a string? y/n: 
+y
+Enter a string: 
+www.abcd.educ
+www.abcd.educ
+State 1 Char w
+State 2 Char w
+State 3 Char w
+State 4 Char .
+State 5 Char a
+State 10 Char b
+State 10 Char c
+State 10 Char d
+State 10 Char .
+State 9 Char e
+State 11 Char d
+State 12 Char u
+State 13 Char c
+Rejected! :( 
+
+Do you want to enter a string? y/n: 
+n
+DONE

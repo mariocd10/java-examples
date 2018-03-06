@@ -1,0 +1,13 @@
+/bin
+
+#project files
+.project
+
+#class files
+.class
+
+#class path files 
+.classpath
+
+#settings files
+.settings/
